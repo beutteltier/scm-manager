@@ -22,7 +22,7 @@
 # SOFTWARE.
 #
 
-FROM ubuntu
+FROM ubuntu:20.04
 
 COPY nothing /nowhere
 
