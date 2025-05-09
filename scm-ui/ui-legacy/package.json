@@ -12,8 +12,8 @@
     "@scm-manager/ui-extensions": "^2.32.1-SNAPSHOT",
     "@scm-manager/ui-types": "^2.32.1-SNAPSHOT",
     "react": "^17.0.1",
-    "react-redux": "^5.0.7",
-    "redux": "^4.0.0"
+    "react-redux": "^9.0.0",
+    "redux": "^5.0.0"
   },
   "devDependencies": {
     "@scm-manager/babel-preset": "^2.12.0",
